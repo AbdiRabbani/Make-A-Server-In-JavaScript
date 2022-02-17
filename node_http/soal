@@ -1,0 +1,4 @@
+1. Buatlah server denang nama variable nama antum & import http dengan nama antum
+2. Buat respon home, about, form 404 nofound
+3. Buat respon mengirim data
+"anda berhasil menambahkan data" jika methodnya POST.
